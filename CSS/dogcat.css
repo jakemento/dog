@@ -1,0 +1,16 @@
+h1 {
+  color: green;
+  text-align: right;
+  font-weight:20;
+  font-size: 80px;
+  line-height: 30px;
+}
+
+h2 {
+  font-style: oblique;
+  text-align: right;
+}
+
+h3 {
+  font-family:cursive;
+}
